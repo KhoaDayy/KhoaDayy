@@ -1,10 +1,7 @@
 # Kynx
 👋 Xin chào, tôi là @kynx
-- Tên thật của tôi là: Nguyễn Đăng Khoa
-- Tôi sinh ngày 6-2
-- 👀 Tôi quan tâm đến JavaScript
-- 🌱 Tôi hiện đang học THPT Lục Ngạn Số 1
-- 💞️ Tôi đang muốn cộng tác trên đại học CNTT 
+- Tên thật của tôi là: Nguyễn Khoa
+- 👀 Tôi quan tâm đến JavaScript, Python và TypeScript
 - 📫 Liên hệ với tôi [tại đây](https://www.facebook.com/katsuu.12)
 
 ## Stats
