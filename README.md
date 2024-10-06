@@ -1,5 +1,5 @@
-# Kynx
-👋 Xin chào, tôi là @kynx
+# About Me
+👋 Xin chào, tôi là Kynx
 - Tên thật của tôi là: Nguyễn Khoa
 - 👀 Tôi quan tâm đến JavaScript, Python và TypeScript
 - 📫 Liên hệ với tôi [tại đây](https://www.facebook.com/katsuu.12)
