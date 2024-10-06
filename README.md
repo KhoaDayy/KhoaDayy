@@ -7,13 +7,6 @@
 - 💞️ Tôi đang muốn cộng tác trên đại học CNTT 
 - 📫 Liên hệ với tôi [tại đây](https://www.facebook.com/katsuu.12)
 
-<br>
-<br>
-<p align="center">
-  <img src="https://c.tenor.com/kZUb3H7xURYAAAAC/kanna-eating.gif" width="800">
-</p>
-
-
 ## Stats
 <a href="https://github.com/KhoaDayy/github-stats-transparent">
 
