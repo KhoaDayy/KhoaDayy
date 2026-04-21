@@ -59,19 +59,5 @@ I'm a passionate developer who loves building things with code. From web apps to
 ---
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhoaDayy/KhoaDayy/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhoaDayy/KhoaDayy/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/KhoaDayy/KhoaDayy/output/github-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
   <sub>⭐ From <a href="https://github.com/KhoaDayy">KhoaDayy</a> with ❤️</sub>
 </div>
